@@ -1,0 +1,6 @@
+C:\Users\Junior\Documents\GitHub\CSharp\0_ola_mundo\0_ola_mundo\bin\Debug\0_ola_mundo.exe.config
+C:\Users\Junior\Documents\GitHub\CSharp\0_ola_mundo\0_ola_mundo\bin\Debug\0_ola_mundo.exe
+C:\Users\Junior\Documents\GitHub\CSharp\0_ola_mundo\0_ola_mundo\bin\Debug\0_ola_mundo.pdb
+C:\Users\Junior\Documents\GitHub\CSharp\0_ola_mundo\0_ola_mundo\obj\Debug\0_ola_mundo.exe
+C:\Users\Junior\Documents\GitHub\CSharp\0_ola_mundo\0_ola_mundo\obj\Debug\0_ola_mundo.pdb
+C:\Users\Junior\Documents\GitHub\CSharp\0_ola_mundo\0_ola_mundo\obj\Debug\0_ola_mundo.csprojResolveAssemblyReference.cache
