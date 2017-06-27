@@ -1,0 +1,6 @@
+C:\Users\Junior\Documents\GitHub\CSharp\03_quatro_operacoes\03_quatro_operacoes\bin\Debug\03_quatro_operacoes.exe.config
+C:\Users\Junior\Documents\GitHub\CSharp\03_quatro_operacoes\03_quatro_operacoes\bin\Debug\03_quatro_operacoes.exe
+C:\Users\Junior\Documents\GitHub\CSharp\03_quatro_operacoes\03_quatro_operacoes\bin\Debug\03_quatro_operacoes.pdb
+C:\Users\Junior\Documents\GitHub\CSharp\03_quatro_operacoes\03_quatro_operacoes\obj\Debug\03_quatro_operacoes.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\GitHub\CSharp\03_quatro_operacoes\03_quatro_operacoes\obj\Debug\03_quatro_operacoes.exe
+C:\Users\Junior\Documents\GitHub\CSharp\03_quatro_operacoes\03_quatro_operacoes\obj\Debug\03_quatro_operacoes.pdb
