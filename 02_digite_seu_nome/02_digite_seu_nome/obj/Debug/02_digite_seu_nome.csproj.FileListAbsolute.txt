@@ -1,0 +1,5 @@
+C:\Users\Junior\Documents\GitHub\CSharp\02_digite_seu_nome\02_digite_seu_nome\bin\Debug\02_digite_seu_nome.exe.config
+C:\Users\Junior\Documents\GitHub\CSharp\02_digite_seu_nome\02_digite_seu_nome\bin\Debug\02_digite_seu_nome.exe
+C:\Users\Junior\Documents\GitHub\CSharp\02_digite_seu_nome\02_digite_seu_nome\bin\Debug\02_digite_seu_nome.pdb
+C:\Users\Junior\Documents\GitHub\CSharp\02_digite_seu_nome\02_digite_seu_nome\obj\Debug\02_digite_seu_nome.exe
+C:\Users\Junior\Documents\GitHub\CSharp\02_digite_seu_nome\02_digite_seu_nome\obj\Debug\02_digite_seu_nome.pdb
