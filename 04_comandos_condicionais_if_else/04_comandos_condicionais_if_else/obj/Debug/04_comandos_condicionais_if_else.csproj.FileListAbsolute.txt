@@ -1,0 +1,5 @@
+C:\Users\Junior\Documents\GitHub\CSharp\04_comandos_condicionais_if_else\04_comandos_condicionais_if_else\bin\Debug\04_comandos_condicionais_if_else.exe.config
+C:\Users\Junior\Documents\GitHub\CSharp\04_comandos_condicionais_if_else\04_comandos_condicionais_if_else\bin\Debug\04_comandos_condicionais_if_else.exe
+C:\Users\Junior\Documents\GitHub\CSharp\04_comandos_condicionais_if_else\04_comandos_condicionais_if_else\bin\Debug\04_comandos_condicionais_if_else.pdb
+C:\Users\Junior\Documents\GitHub\CSharp\04_comandos_condicionais_if_else\04_comandos_condicionais_if_else\obj\Debug\04_comandos_condicionais_if_else.exe
+C:\Users\Junior\Documents\GitHub\CSharp\04_comandos_condicionais_if_else\04_comandos_condicionais_if_else\obj\Debug\04_comandos_condicionais_if_else.pdb
