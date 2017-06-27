@@ -1,0 +1,6 @@
+C:\Users\Junior\Documents\GitHub\CSharp\01_soma_de_dois_numeros\01_soma_de_dois_numeros\bin\Debug\01_soma_de_dois_numeros.exe.config
+C:\Users\Junior\Documents\GitHub\CSharp\01_soma_de_dois_numeros\01_soma_de_dois_numeros\bin\Debug\01_soma_de_dois_numeros.exe
+C:\Users\Junior\Documents\GitHub\CSharp\01_soma_de_dois_numeros\01_soma_de_dois_numeros\bin\Debug\01_soma_de_dois_numeros.pdb
+C:\Users\Junior\Documents\GitHub\CSharp\01_soma_de_dois_numeros\01_soma_de_dois_numeros\obj\Debug\01_soma_de_dois_numeros.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\GitHub\CSharp\01_soma_de_dois_numeros\01_soma_de_dois_numeros\obj\Debug\01_soma_de_dois_numeros.exe
+C:\Users\Junior\Documents\GitHub\CSharp\01_soma_de_dois_numeros\01_soma_de_dois_numeros\obj\Debug\01_soma_de_dois_numeros.pdb
