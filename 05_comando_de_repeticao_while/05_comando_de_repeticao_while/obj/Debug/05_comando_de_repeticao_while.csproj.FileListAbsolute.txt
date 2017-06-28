@@ -1,0 +1,6 @@
+C:\Users\Junior\Documents\GitHub\CSharp\05_comando_de_repeticao_while\05_comando_de_repeticao_while\bin\Debug\05_comando_de_repeticao_while.exe.config
+C:\Users\Junior\Documents\GitHub\CSharp\05_comando_de_repeticao_while\05_comando_de_repeticao_while\bin\Debug\05_comando_de_repeticao_while.exe
+C:\Users\Junior\Documents\GitHub\CSharp\05_comando_de_repeticao_while\05_comando_de_repeticao_while\bin\Debug\05_comando_de_repeticao_while.pdb
+C:\Users\Junior\Documents\GitHub\CSharp\05_comando_de_repeticao_while\05_comando_de_repeticao_while\obj\Debug\05_comando_de_repeticao_while.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\GitHub\CSharp\05_comando_de_repeticao_while\05_comando_de_repeticao_while\obj\Debug\05_comando_de_repeticao_while.exe
+C:\Users\Junior\Documents\GitHub\CSharp\05_comando_de_repeticao_while\05_comando_de_repeticao_while\obj\Debug\05_comando_de_repeticao_while.pdb
